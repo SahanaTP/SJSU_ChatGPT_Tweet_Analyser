@@ -21,4 +21,4 @@ chatgpt_app.py -h – Shows the help menu
 
 #2
 chatgpt_app.py -p – Should prompt for password and the password is labproject
-![image](https://github.com/SahanaTP/SJSU_ChatGPT_Tweet_Analyser/assets/32634047/f6794765-9cf5-40a3-b0b8-8b133c592cb9)
+
